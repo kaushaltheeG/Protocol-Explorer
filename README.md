@@ -5,7 +5,5 @@ An in-house S2 Genomics application used for exploring new or optimizing old cel
 
 # Technologies 
 Language: C#
-Library: .DLL 
+Library: .DLL, .NET6
 
-# Features
-- Able to 
